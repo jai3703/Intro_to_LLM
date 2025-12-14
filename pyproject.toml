@@ -1,0 +1,13 @@
+[project]
+name = "intro-to-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "graphviz>=0.21",
+    "matplotlib>=3.10.8",
+    "numpy>=2.3.5",
+    "requests>=2.32.5",
+    "torch>=2.9.1",
+]
